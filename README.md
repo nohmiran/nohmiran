@@ -10,7 +10,7 @@
 <br/><br/>
 
 <a href="https://www.instagram.com/mirangku/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mirangku/"/></a>
-<a href="https://blog.naver.com/yesmiran"><img src="https://img.shields.io/badge/Naverblog-03C75A?style=flat-square&logo=Naverblog&logoColor=white&link=https://blog.naver.com/yesmiran"/></a>
+<a href="https://blog.naver.com/yesmiran"><img src="https://img.shields.io/badge/Naverblog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/yesmiran"/></a>
 <a href="mailto:nmr1227@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nmr1227@gmail.com"/>
 </a>
 <br/>
