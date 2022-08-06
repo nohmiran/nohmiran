@@ -36,6 +36,16 @@
 
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
+<h3>📂 My repository 📂</h3>
+<br/>
+◽ 추천 알고리즘을 통한 사용자 맞춤 향수 추천 서비스 : 
+<a href="https://github.com/2022-SMHRD-KDT-AI-1/Perfume">취향저격</a><br/>
+◽ 음성녹음 회의록 관리 자동화 시스템 : 
+<a href="https://github.com/SeeYourVoice">MOiM</a><br/>
+◽ 스프링프레임워크로 간단한 게시판 만들기
+<a href="https://github.com/nohmiran/Spring-Board">Spring-Board</a><br/>
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnohmiran&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
