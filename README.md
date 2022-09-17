@@ -45,7 +45,7 @@
 ◽ 스프링프레임워크로 간단한 게시판 만들기 : 
 <a href="https://github.com/nohmiran/Spring-Board">Spring-Board</a><br/>
 ◽ 자바 알고리즘 풀기 (1일 1커밋 목표) : 
-<a gref="https://github.com/nohmiran/Algorithm-Java">Algorithm-Java</a><br/>
+<a href="https://github.com/nohmiran/Algorithm-Java">Algorithm-Java</a><br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
