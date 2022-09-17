@@ -42,8 +42,10 @@
 <a href="https://github.com/2022-SMHRD-KDT-AI-1/Perfume">취향저격</a><br/>
 ◽ 음성녹음 회의록 관리 자동화 시스템 : 
 <a href="https://github.com/SeeYourVoice">MOiM</a><br/>
-◽ 스프링프레임워크로 간단한 게시판 만들기
+◽ 스프링프레임워크로 간단한 게시판 만들기 : 
 <a href="https://github.com/nohmiran/Spring-Board">Spring-Board</a><br/>
+◽ 자바 알고리즘 풀기 (1일 1커밋 목표) : 
+<a gref="https://github.com/nohmiran/Algorithm-Java">Algorithm-Java</a><br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
