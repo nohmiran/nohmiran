@@ -38,7 +38,7 @@
 
 <h3>📂 My repository 📂</h3>
 <br/>
-  <div align = "center">
+  <div align = left>
 ◽ 추천 알고리즘을 통한 사용자 맞춤 향수 추천 서비스 : 
 <a href="https://github.com/2022-SMHRD-KDT-AI-1/Perfume">취향저격</a><br/>
 ◽ 음성녹음 회의록 관리 자동화 시스템 : 
