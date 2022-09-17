@@ -38,6 +38,7 @@
 
 <h3>📂 My repository 📂</h3>
 <br/>
+  <div align = "center">
 ◽ 추천 알고리즘을 통한 사용자 맞춤 향수 추천 서비스 : 
 <a href="https://github.com/2022-SMHRD-KDT-AI-1/Perfume">취향저격</a><br/>
 ◽ 음성녹음 회의록 관리 자동화 시스템 : 
@@ -48,6 +49,7 @@
 <a href="https://github.com/nohmiran/Algorithm-Java">Algorithm-Java</a><br/>
 ◽ 취미로 하는 크롤링 : 
 <a href="https://github.com/nohmiran/Python-Crawling">Python-Crawling</a><br/>
+  </div>
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
