@@ -4,8 +4,7 @@
 </div>
 
 <div align = "center">
-<h3>Hi👋! I'm Miran👩‍💻</h3>
-<b>I'm growing everyday🌱🌱</b>
+<h3>👩‍💻YESMIRAN NOHMIRAN👩‍💻</h3>
 
 <br/><br/>
 
